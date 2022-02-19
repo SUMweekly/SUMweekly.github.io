@@ -105,6 +105,8 @@ ________________________________________________________________________________
   font-weight:900;
 }
 
+@import url(“css/post-page.css”);
+
 
 
 /* UNIVERSAL ELEMENTS */
@@ -1634,7 +1636,7 @@ b {
         margin-bottom:10px;
         margin-left:15px;
       }
-      
+
       @media (max-width:992px) {
         .home .blog-posts-wrapper .featuredpost .entry-meta {
           margin-left:10px;
@@ -1695,7 +1697,7 @@ b {
       /* LATEST POSTS TITLE FORMATTING 2 & 3*/
 
 
-    @media (min-width:992px) { 
+    @media (min-width:992px) {
       .home .blog-posts-wrapper article:nth-of-type(2) h2 a,
       .home .blog-posts-wrapper article:nth-of-type(3) h2 a {
         bottom:39vw;
@@ -1911,7 +1913,7 @@ b {
     .home .featuredpost .entry-title span {
       display:hidden;
     }
-    
+
     .home .featuredpost .entry-title #hspan3 {
       display:block;
       font-size:7vw;
@@ -1961,7 +1963,7 @@ b {
   /*FEATURED POST > TEXT FORMATTING [M] */
 
   @media (min-width: 0px) and (max-width: 767.99px) {
-    
+
     .home .featuredpost .entry-header {
       margin:0 0;
       border:0 0;
@@ -2187,7 +2189,7 @@ b {
     top:0px;
   }
 
-  
+
   .home .blog-posts-wrapper .featuredpost .entry-content {
     margin-left:15px;
   }
@@ -2406,7 +2408,7 @@ ol{
       min-width:100vw!important;
       margin-left:-1.25vw!important;
     }
-    
+
 
     #primary{
       padding:0 0;
@@ -2435,7 +2437,7 @@ ol{
 
 
 
- 
+
 
   .subhead {
     font-family: "uniongrotesk";
@@ -3016,7 +3018,7 @@ z-index:-100;
     #spanwrap #span2{
         display:none;
       }
-      
+
       .home  #spanwrap #span3 {
         display:none;
       }
@@ -3816,7 +3818,7 @@ z-index:-100;
 
 
 @media (min-width:0px) and (max-width:700px) {
- 
+
     #infofooter {
       margin-bottom:13px;
       line-height:23px;
@@ -4274,7 +4276,7 @@ color:transparent;
         color:white!important;
         font-weight:200;
         width:10vw!important;
-      }  
+      }
 
       #site-navigation li:last-of-type{
         display:visible!important;
@@ -6007,7 +6009,7 @@ h1, h2, h3, h4, h5, h6 {
       /* [M] */
 
 
-  
+
       .home .blog-posts-wrapper h2 a #hspan2 {
         display:none;
       }
@@ -6186,7 +6188,7 @@ h1, h2, h3, h4, h5, h6 {
         min-height:43vw;
       }
 
-      
+
 
       /* POINT ME TO NEW LATEST HEADER
       .home .entry-header>h2 {
@@ -6479,7 +6481,7 @@ h1, h2, h3, h4, h5, h6 {
 
     }
 
- 
+
 
     .category-10 {
         -webkit-touch-callout: rgba(16, 148, 35,.2);
@@ -6711,7 +6713,7 @@ h1, h2, h3, h4, h5, h6 {
       padding:10px 10px;
       margin:0 0;
     }
-    
+
   #artistlink .wp-block-image img,
   #artistlinkinline .wp-block-image img
   {

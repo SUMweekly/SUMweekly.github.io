@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Art / Mitchell Bradshaw Design	</title>
-	<atom:link href="/mitchell-bradshaw/feed/" rel="self" type="application/rss+xml" />
-	<link>/mitchell-bradshaw/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitchell-bradshaw</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mitchell-bradshaw</link>
 	<description>SUMweekly</description>
 	<lastBuildDate>Tue, 01 Feb 2022 18:32:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
