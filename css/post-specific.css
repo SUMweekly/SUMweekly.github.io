@@ -1,0 +1,450 @@
+
+/*INFO PAGE*/
+
+.page-id-255 #main article {
+    margin:0 0 ;
+    padding:0 0;
+    padding-top:0px;
+    width:100vw;
+    overflow-y:scroll;
+  }
+  
+  .page-id-255 .entry-header {
+    height:8vw;
+  }
+  
+  .page-id-255 .entry-title {
+    width:0px;
+    height:0px;
+    overflow:hidden;
+  }
+  
+  .page-id-255 .wp-block-group__inner-container {
+    margin-left:6vw;
+    margin-right:6vw;
+    flex-direction:column;
+  }
+  
+  .page-id-255 .wp-block-group:last-of-type {
+    margin-bottom:30px;
+  }
+  
+  .page-id-255 .entry-header::after {
+    content: "ABOUT US";
+    max-height:100px;
+    height:100px;
+    width:100%;
+    max-width:100%;
+    font-family: "uniongrotesk";
+    -webkit-text-stroke-width:.8px;
+    -webkit-text-stroke-color: black;
+    font-weight: normal;
+    font-size:6vw;
+    letter-spacing:-1px;
+    color:transparent
+    }
+  
+  .page-id-255 .entry-content p {
+    white-space:normal;
+    color:rgba(50, 50, 50);
+    z-index:100;
+    font-weight:300;
+    font-family:"work sans";
+    font-size:17px;
+  }
+  
+  .page-id-255 .wp-block-group a:hover {
+    color:#989898;
+  }
+
+
+.page-id-255 #main article .entry-content p {
+    margin-top:0px;
+    margin-bottom:5px;
+  }
+
+  
+
+@media (min-width:0px) and (max-width:700px) {
+    .page-id-255 .entry-header{
+      height:15vw;
+      margin-left:0;
+    }
+    .page-id-255 .entry-header::after {
+      font-size:9vw;
+      }
+  
+  
+      .page-id-255 .wp-block-group:nth-of-type(1) .wp-block-group__inner-container {
+        display:flex;
+        flex-direction:row;
+        justify-content: space-around;
+        min-width:92%;
+        max-width:92%;
+      }
+  
+      .page-id-255 .entry-header::after {
+        -webkit-text-stroke-width:.6px;
+        font-size:11vw;
+        }
+  
+        .page-id-255 .wp-block-group__inner-container {
+  
+        margin-left:6vw;
+        margin-right:6vw;
+        flex-direction:column;
+  
+        }
+  
+        .page-id-255 #main article .entry-header {
+          margin-left:5vw;
+          margin-bottom:5px;
+  
+        }
+  
+    }
+
+    @media (min-width:700px) and (max-width:3000px) {
+        .page-id-255 {
+          max-height:100vh;
+          overflow: visible;
+        }
+        .page-id-255 .wp-block-group:nth-of-type(1) .wp-block-group__inner-container {
+          display:flex;
+          flex-direction:row;
+          justify-content: space-around;
+          width:65%;
+        }
+        
+        .page-id-255 .wp-block-group:last-of-type .wp-block-group__inner-container {
+          margin-left:0;
+          margin-right:0;
+          width:80%;
+          max-width:80%;
+          min-width:80%;
+        }
+        
+        .page-id-255 #main article .entry-header {
+          margin-left:10vw;
+          margin-bottom:5px;
+        
+        }
+        
+        }
+
+
+.page-id-255 #main article .entry-content {
+    width:100%;
+  }
+  
+  .page-id-255 .slide-item {
+    display:none;
+  }
+  
+  .page-id-255 #custom-header-media{
+    display:none;
+  }
+  
+  .page-id-255 #content {
+    top:107px;
+    position:absolute;
+  }
+  
+  .page-id-255 .wp-block-image {
+    margin:0 0;
+    padding:0 0;
+  }
+
+  
+  .page-id-255  .entry-header>h1 {
+    font-family: "uniongrotesk";
+    color: transparent ;
+    -webkit-text-stroke-width: .78px;
+    -webkit-text-stroke-color: black;
+    font-weight: normal;
+    font-size:63px;
+    line-height: 55px;
+    margin-left:unset;
+    left:0;
+    overflow:visible;
+    z-index:200;
+    position:relative;
+    display:block;
+    margin:0 0;
+    border:0 0;
+    padding:0 0;
+    padding-top:3px;
+    word-break: break-word;
+    -ms-word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+  }
+
+  .page-id-255 .wp-block-group {
+    width:100%;
+    margin-top:0;
+    margin-bottom:15px;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+  }
+
+
+  .page-id-255 .wp-block-group__inner-container figure{
+    flex-basis:33%;
+    min-width:33%;
+  }
+
+
+
+
+  .page-id-841 #main article {
+    margin:0 0 ;
+    padding:0 0;
+    padding-top:0px;
+    width:100vw;
+    overflow-y:scroll;
+  }
+  
+  .page-id-841 .entry-header {
+    height:8vw;
+  }
+  
+  .page-id-841 .entry-title {
+    width:0px;
+    height:0px;
+    overflow:hidden;
+  }
+  
+  .page-id-841 .wp-block-group__inner-container {
+    margin-left:6vw;
+    margin-right:6vw;
+    flex-direction:column;
+  }
+  
+  .page-id-841 .wp-block-group:last-of-type {
+    margin-bottom:30px;
+  }
+  
+  .page-id-841 .entry-header::after {
+    content: "ABOUT US";
+    max-height:100px;
+    height:100px;
+    width:100%;
+    max-width:100%;
+    font-family: "uniongrotesk";
+    -webkit-text-stroke-width:.8px;
+    -webkit-text-stroke-color: black;
+    font-weight: normal;
+    font-size:6vw;
+    letter-spacing:-1px;
+    color:transparent
+    }
+  
+  .page-id-841 .entry-content p {
+    white-space:normal;
+    color:rgba(50, 50, 50);
+    z-index:100;
+    font-weight:300;
+    font-family:"work sans";
+    font-size:17px;
+  }
+  
+  .page-id-841 .wp-block-group a:hover {
+    color:#989898;
+  }
+
+  
+.page-id-841 #main article .entry-content p {
+    margin-top:0px;
+    margin-bottom:5px;
+  }
+
+  
+
+@media (min-width:0px) and (max-width:700px) {
+    
+    .page-id-841 .entry-header{
+      height:15vw;
+      margin-left:0;
+    }
+    .page-id-841 .entry-header::after {
+      font-size:9vw;
+      }
+
+    .page-id-841 .wp-block-group:nth-of-type(1) .wp-block-group__inner-container {
+        display:flex;
+        flex-direction:row;
+        justify-content: space-around;
+        min-width:92%;
+        max-width:92%;
+      }
+  
+    .page-id-841 .entry-header::after {
+    -webkit-text-stroke-width:.6px;
+    font-size:11vw;
+    }
+
+    .page-id-841 .wp-block-group__inner-container {
+        margin-left:6vw;
+        margin-right:6vw;
+        flex-direction:column;
+    }
+
+    .page-id-841 #main article .entry-header {
+        margin-left:5vw;
+        margin-bottom:5px;
+    }
+
+}
+
+
+
+@media (min-width:700px) and (max-width:3000px) {
+    .page-id-841 {
+      max-height:100vh;
+      overflow: visible;
+    }
+    .page-id-841 .wp-block-group:nth-of-type(1) .wp-block-group__inner-container {
+      display:flex;
+      flex-direction:row;
+      justify-content: space-around;
+      width:65%;
+    }
+    
+    .page-id-841 .wp-block-group:last-of-type .wp-block-group__inner-container {
+      margin-left:0;
+      margin-right:0;
+      width:80%;
+      max-width:80%;
+      min-width:80%;
+    }
+    
+    .page-id-841 #main article .entry-header {
+      margin-left:10vw;
+      margin-bottom:5px;
+    
+    }
+    
+}
+
+    
+.page-id-841 #main article .entry-content {
+    width:100%;
+  }
+  
+  .page-id-841 .slide-item {
+    display:none;
+  }
+  
+  .page-id-841 #custom-header-media{
+    display:none;
+  }
+  
+  .page-id-841 #content {
+    top:107px;
+    position:absolute;
+  }
+  
+  .page-id-841 .wp-block-image {
+    margin:0 0;
+    padding:0 0;
+  }
+}  
+
+.page-id-841  .entry-header>h1 {
+    font-family: "uniongrotesk";
+    color: transparent ;
+    -webkit-text-stroke-width: .78px;
+    -webkit-text-stroke-color: black;
+    font-weight: normal;
+    font-size:63px;
+    line-height: 55px;
+    margin-left:unset;
+    left:0;
+    overflow:visible;
+    z-index:200;
+    position:relative;
+    display:block;
+    margin:0 0;
+    border:0 0;
+    padding:0 0;
+    padding-top:3px;
+    word-break: break-word;
+    -ms-word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+  }
+
+  .page-id-841 .wp-block-group {
+    width:100%;
+    margin-top:0;
+    margin-bottom:15px;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+  }
+
+
+  .page-id-841 .wp-block-group__inner-container figure {
+    flex-basis:33%;
+    min-width:33%;
+  }
+
+    /*rgba(65, 65, 65); PAGE*/
+
+    .page-id-259 .slide-item {
+        display:none;
+      }
+    
+      .page-id-259 #custom-header-media{
+        display:none;
+      }
+    
+      .page-id-259 #content {
+        top:107px;
+        position:absolute;
+      }
+    
+    
+    
+        .page-id-259  .entry-header>h1 {
+          font-family: "uniongrotesk";
+          color: transparent ;
+          -webkit-text-stroke-width: .78px;
+          -webkit-text-stroke-color: black;
+          font-weight: normal;
+          font-size:63px;
+          line-height: 55px;
+          margin-left:unset;
+          left:0;
+          overflow:visible;
+          z-index:200;
+          position:relative;
+          display:block;
+          margin:0 0;
+          border:0 0;
+          padding:0 0;
+          padding-top:3px;
+          padding-bottom:10px;
+          word-break: break-word;
+          -ms-word-break: break-word;
+          -webkit-hyphens: auto;
+          -moz-hyphens: auto;
+          hyphens: auto;
+        }
+    
+    @media (min-width:0px) and (max-width:700px) {
+      .page-id-259  .entry-header>h1 {
+        font-size:10.7vw;
+        -webkit-text-stroke-width:.5px;
+      }
+    }
+
+    
+.page-id-255 #colophon2 {
+    position:fixed;
+    bottom:0px;
+  }
