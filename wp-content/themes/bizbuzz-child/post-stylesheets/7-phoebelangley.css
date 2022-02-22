@@ -1,0 +1,9 @@
+.postid-844 .entry-header span:nth-of-type(1) {
+    display:inline!important;
+    -webkit-text-stroke-color:orange!important;
+}
+
+.postid-844 .entry-header span:nth-of-type(1)::after {
+    content:":"!important;
+    margin-left:-25px!important;;
+}
